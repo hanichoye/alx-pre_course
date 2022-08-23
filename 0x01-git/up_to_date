@@ -1,6 +1,0 @@
-1. git add .
-2. git commit -m 'text' 
-3. git branciih <verb>
-4. git checkout <verb>
-5. git push 
-6. git config
